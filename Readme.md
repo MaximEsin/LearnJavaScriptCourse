@@ -15,3 +15,5 @@
 2.9 Comparison operators
 
 2.10 If... else, ? operator
+
+2.11 Boolean operators
