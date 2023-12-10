@@ -9,3 +9,5 @@
 2.5 Data types
 
 2.6 Interactions: alert, prompt, confirm
+
+2.8 Operators
