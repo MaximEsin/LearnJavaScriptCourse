@@ -21,3 +21,5 @@
 2.13 While & for loop
 
 2.14 Switch
+
+2.15 Functions
