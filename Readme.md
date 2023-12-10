@@ -11,3 +11,5 @@
 2.6 Interactions: alert, prompt, confirm
 
 2.8 Operators
+
+2.9 Comparison operators
