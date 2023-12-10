@@ -19,3 +19,5 @@
 2.11 Boolean operators
 
 2.13 While & for loop
+
+2.14 Switch
