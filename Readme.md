@@ -23,3 +23,5 @@
 2.14 Switch
 
 2.15 Functions
+
+2.17 Arrow functions
