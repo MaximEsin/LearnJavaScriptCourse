@@ -17,3 +17,5 @@
 2.10 If... else, ? operator
 
 2.11 Boolean operators
+
+2.13 While & for loop
