@@ -29,3 +29,5 @@
 3.2 Code style
 
 3.5 Autotests
+
+4.1 Plain objects
