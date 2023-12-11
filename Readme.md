@@ -31,3 +31,5 @@
 3.5 Autotests
 
 4.1 Plain objects
+
+4.4 Object methods, this
