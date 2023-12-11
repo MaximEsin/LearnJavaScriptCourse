@@ -33,3 +33,5 @@
 4.1 Plain objects
 
 4.4 Object methods, this
+
+4.5 Constructor, new operator
