@@ -25,3 +25,5 @@
 2.15 Functions
 
 2.17 Arrow functions
+
+3.2 Code style
