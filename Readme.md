@@ -41,3 +41,5 @@
 5.2 Numbers
 
 5.3 Strings
+
+5.4 Arrays
