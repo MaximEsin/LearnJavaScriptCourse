@@ -37,3 +37,5 @@
 4.5 Constructor, new operator
 
 5.1 Primitive's methods
+
+5.2 Numbers
