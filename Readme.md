@@ -39,3 +39,5 @@
 5.1 Primitive's methods
 
 5.2 Numbers
+
+5.3 Strings
