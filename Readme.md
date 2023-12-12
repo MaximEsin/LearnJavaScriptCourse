@@ -35,3 +35,5 @@
 4.4 Object methods, this
 
 4.5 Constructor, new operator
+
+5.1 Primitive's methods
