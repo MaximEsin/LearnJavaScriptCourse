@@ -49,3 +49,5 @@
 5.7 Map and Set
 
 5.8 WeakMap & WeakSet
+
+5.9 Object.keys, values, entries
