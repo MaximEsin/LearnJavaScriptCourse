@@ -47,3 +47,5 @@
 5.5 Array methods
 
 5.7 Map and Set
+
+5.8 WeakMap & WeakSet
