@@ -51,3 +51,5 @@
 5.8 WeakMap & WeakSet
 
 5.9 Object.keys, values, entries
+
+5.10 Destructuring
