@@ -43,3 +43,5 @@
 5.3 Strings
 
 5.4 Arrays
+
+5.5 Array methods
