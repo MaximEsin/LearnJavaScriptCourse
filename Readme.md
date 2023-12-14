@@ -61,3 +61,5 @@
 6.1 Recursion
 
 6.3 Variable scope
+
+6.6 Named Function Expression
