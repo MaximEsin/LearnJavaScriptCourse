@@ -63,3 +63,5 @@
 6.3 Variable scope
 
 6.6 Named Function Expression
+
+6.8 setInterval & setTimeout
