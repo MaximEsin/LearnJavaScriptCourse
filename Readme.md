@@ -57,3 +57,7 @@
 5.11 Date
 
 5.12 JSON
+
+6.1 Recursion
+
+6.3 Variable scope
