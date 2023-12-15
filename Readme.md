@@ -67,3 +67,5 @@
 6.8 setInterval & setTimeout
 
 6.9 Decorators
+
+6.10 Bind
