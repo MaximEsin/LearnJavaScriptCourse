@@ -75,3 +75,5 @@
 8.2 F.prototype
 
 8.3 Native prototypes
+
+8.4 Prototype methods
