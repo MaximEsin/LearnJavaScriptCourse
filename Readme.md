@@ -79,3 +79,7 @@
 8.4 Prototype methods
 
 9.1 Class
+
+9.2 Class inheritance
+
+9.3 Static properties methods
