@@ -53,6 +53,7 @@ rabbitt.eat(); // rabbitt
 
 // 4 task Почему наедаются оба хомяка?
 let hamster = {
+  stomach: [],
   eat(food) {
     this.stomach.push(food);
   },

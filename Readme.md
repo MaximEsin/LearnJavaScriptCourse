@@ -71,3 +71,5 @@
 6.10 Bind
 
 8.1 Prototypes
+
+8.2 F.prototype
