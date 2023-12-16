@@ -69,3 +69,5 @@
 6.9 Decorators
 
 6.10 Bind
+
+8.1 Prototypes
