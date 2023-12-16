@@ -77,3 +77,5 @@
 8.3 Native prototypes
 
 8.4 Prototype methods
+
+9.1 Class
