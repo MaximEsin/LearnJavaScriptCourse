@@ -73,3 +73,5 @@
 8.1 Prototypes
 
 8.2 F.prototype
+
+8.3 Native prototypes
