@@ -83,3 +83,5 @@
 9.2 Class inheritance
 
 9.3 Static properties methods
+
+9.6 Instanceof
