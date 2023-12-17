@@ -87,3 +87,5 @@
 9.6 Instanceof
 
 10.1 try-catch
+
+10.2 Custom error
