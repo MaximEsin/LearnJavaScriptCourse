@@ -89,3 +89,5 @@
 10.1 try-catch
 
 10.2 Custom error
+
+11.2 Promise basics
