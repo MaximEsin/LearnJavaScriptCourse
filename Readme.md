@@ -85,3 +85,5 @@
 9.3 Static properties methods
 
 9.6 Instanceof
+
+10.1 try-catch
