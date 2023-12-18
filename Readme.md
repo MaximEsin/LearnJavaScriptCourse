@@ -93,3 +93,5 @@
 11.2 Promise basics
 
 11.3 Promise chaining
+
+11.4 Promise error handling
