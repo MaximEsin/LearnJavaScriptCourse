@@ -97,3 +97,5 @@
 11.4 Promise error handling
 
 11.8 Async & Await
+
+12.1 Generators
