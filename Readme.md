@@ -95,3 +95,5 @@
 11.3 Promise chaining
 
 11.4 Promise error handling
+
+11.8 Async & Await
