@@ -91,3 +91,5 @@
 10.2 Custom error
 
 11.2 Promise basics
+
+11.3 Promise chaining
