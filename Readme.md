@@ -99,3 +99,5 @@
 11.8 Async & Await
 
 12.1 Generators
+
+14.1 Proxy
