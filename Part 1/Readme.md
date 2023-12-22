@@ -1,6 +1,6 @@
 # JavaScript course
 
-**Summary of all tasks:**
+**Summary of all tasks of part 1:**
 
 2.1 Call alert() in a separate script file
 
