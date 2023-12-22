@@ -9,3 +9,5 @@
 1.5 Basic DOM & Node properties
 
 1.6 DOM attributes and properties
+
+1.7 Modifying document
