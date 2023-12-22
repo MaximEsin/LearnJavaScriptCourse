@@ -5,3 +5,5 @@
 1.3 DOM navigation
 
 1.4 Searching DOM elements
+
+1.5 Basic DOM & Node properties
