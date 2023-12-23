@@ -13,3 +13,5 @@
 1.7 Modifying document
 
 1.8 Styles and classes
+
+1.9 Size and scroll
