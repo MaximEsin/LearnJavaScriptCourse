@@ -11,3 +11,5 @@
 1.6 DOM attributes and properties
 
 1.7 Modifying document
+
+1.8 Styles and classes
