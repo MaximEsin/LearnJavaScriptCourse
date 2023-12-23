@@ -19,3 +19,5 @@
 1.11 Coordinates
 
 2.1 Introduction to browser events
+
+2.3 Event delegation
