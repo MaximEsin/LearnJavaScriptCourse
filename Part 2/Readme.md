@@ -17,3 +17,5 @@
 1.9 Size and scroll
 
 1.11 Coordinates
+
+2.1 Introduction to browser events
