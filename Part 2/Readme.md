@@ -21,3 +21,5 @@
 2.1 Introduction to browser events
 
 2.3 Event delegation
+
+2.4 Defaut browser actions
