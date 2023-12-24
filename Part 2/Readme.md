@@ -25,3 +25,5 @@
 2.4 Defaut browser actions
 
 3.1 Mouse events basics
+
+3.2 Mouse events
