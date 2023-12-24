@@ -27,3 +27,5 @@
 3.1 Mouse events basics
 
 3.2 Mouse events
+
+3.3 Mouse drag and drop
