@@ -29,3 +29,5 @@
 3.2 Mouse events
 
 3.3 Mouse drag and drop
+
+3.4 Keyboard events
