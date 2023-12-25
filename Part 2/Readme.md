@@ -37,3 +37,5 @@
 4.1 Form elements
 
 4.2 Focus & blur
+
+4.3 Events: change input
