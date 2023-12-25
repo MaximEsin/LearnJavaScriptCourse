@@ -35,3 +35,5 @@
 3.6 Onscroll
 
 4.1 Form elements
+
+4.2 Focus & blur
