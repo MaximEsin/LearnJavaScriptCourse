@@ -1,10 +1,23 @@
-function getUsers(names) {
-  const users = [];
-  for (let i = 0; i < names.length; i++) {
-    users.push({
-      name: names[i],
-      id: i + 1,
-    });
+async function getUsers(names) {
+  let jobs = [];
+
+  for (let name of names) {
+    let job = fetch(`https://api.github.com/users/${name}`).then(
+      (successResponse) => {
+        if (successResponse.status != 200) {
+          return null;
+        } else {
+          return successResponse.json();
+        }
+      },
+      (failResponse) => {
+        return null;
+      }
+    );
+    jobs.push(job);
   }
-  return users;
+
+  let results = await Promise.all(jobs);
+
+  return results;
 }
