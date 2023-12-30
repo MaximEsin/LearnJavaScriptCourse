@@ -11,3 +11,5 @@
 4.2 Local/SessionStorage
 
 5.2 CSS animation
+
+5.3 JS animation
