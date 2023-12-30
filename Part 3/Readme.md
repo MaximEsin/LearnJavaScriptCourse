@@ -9,3 +9,5 @@
 3.5 Fetch: crossorigin
 
 4.2 Local/SessionStorage
+
+5.2 CSS animation
