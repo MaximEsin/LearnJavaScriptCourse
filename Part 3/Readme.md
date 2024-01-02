@@ -13,3 +13,5 @@
 5.2 CSS animation
 
 5.3 JS animation
+
+6.2 Custom elements
