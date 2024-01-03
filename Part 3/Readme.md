@@ -15,3 +15,5 @@
 5.3 JS animation
 
 6.2 Custom elements
+
+7.4 Regexp anchors
