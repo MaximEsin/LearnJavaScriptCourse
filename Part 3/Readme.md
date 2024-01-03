@@ -22,4 +22,6 @@
 
 7.8 Regexp character sets and ranges
 
-Regexp quantifiers
+7.9 Regexp quantifiers
+
+7.10 Regexp greedy and lazy
