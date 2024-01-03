@@ -21,3 +21,5 @@
 7.6 Regexp boundary
 
 7.8 Regexp character sets and ranges
+
+Regexp quantifiers
