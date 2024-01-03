@@ -17,3 +17,5 @@
 6.2 Custom elements
 
 7.4 Regexp anchors
+
+7.6 Regexp boundary
