@@ -27,3 +27,5 @@
 7.10 Regexp greedy and lazy
 
 7.11 Regexp groups
+
+7.13 Regexp alternation
