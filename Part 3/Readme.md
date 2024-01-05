@@ -33,3 +33,7 @@
 7.14 Regexp lookahead & lookbehind
 
 8.4 Float
+
+8.5 Position
+
+8.6 CSS center
