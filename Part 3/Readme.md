@@ -31,3 +31,5 @@
 7.13 Regexp alternation
 
 7.14 Regexp lookahead & lookbehind
+
+8.4 Float

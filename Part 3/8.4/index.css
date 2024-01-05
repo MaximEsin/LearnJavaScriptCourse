@@ -1,0 +1,78 @@
+/* 1 task Разница inline-block и float
+ Float takes the element out of the stream, but inline-block doesnt.
+I would choose inline-block in this case, because it is easier to maintain */
+
+/* 2 task Дерево с многострочными узлами */
+.icon {
+  width: 16px;
+  height: 16px;
+  float: left;
+}
+
+.open .icon {
+  cursor: pointer;
+  background: url(https://js.cx/sprite-tree/minus.gif);
+}
+
+.closed .icon {
+  cursor: pointer;
+  background: url(https://js.cx/sprite-tree/plus.gif);
+}
+
+.leaf .icon {
+  cursor: text;
+  background: url(https://js.cx/sprite-tree/article.gif);
+}
+
+li {
+  list-style: none;
+}
+
+.text {
+  margin: 6px 0 6px 16px;
+}
+
+/* 3 task Постраничная навигация (CSS) */
+
+.ul {
+  display: flex;
+  gap: 5px;
+  margin-top: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+.square {
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+/* 4 task Добавить рамку, сохранив ширину */
+.left {
+  float: left;
+  width: 30%;
+  background: #aef;
+}
+
+.right {
+  float: right;
+  width: 70%;
+
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+
+  border-left: 2px solid green;
+  padding-left: 10px;
+
+  background: tan;
+}
